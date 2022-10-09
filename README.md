@@ -13,3 +13,9 @@ The following guides illustrate how to use some features concretely:
 
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
+### Run server
+- Run server in Unix System
+```bash
+./mvnw spring-boot:run
+```
+
